@@ -4,7 +4,8 @@ moss-robot-arms Beta version 1.0.
 A repository for affordable, easy-to-assemble robot arms designed for teleoperation applications.
 
 ## Assembly Instructions
-TODO(jess-moss): Add a picture when you can.
+![Arm](./pictures/Render.png)
+
 
 ### Sourcing Parts
 Note: The follower and leader arm for this teleoperation setup will be the same. Order all parts for either one arm or for two arms if you plan on using teleop using the links below. Note prices and items may vary slightly depending on geographic location.
@@ -16,7 +17,7 @@ TODO(jess-moss): Add a picture when you can.
 
 | Part | Amount | Unit Cost (US) | Buy US |
 |---|---|---|---|
-| STS3215 Servo | 5 | $14 | [AliExpress](https://www.aliexpress.us/item/3256807522654830.html) |
+| STS3215 Servo | 5 | $14 | [Alibaba](https://www.alibaba.com/product-detail/12V-30KG-STS3215-7-4v-servo_1601218802374.html) |
 | Motor Control Board |---|---|---|
 | Bracket Set | 6 | $2.6 | [Alibaba](https://www.alibaba.com/product-detail/STS3215-Metal-brackets-for-FEETECH-7_1600836829515.html) |
 | Straight U Bracket | 3 | $1 | [Aliexpress](https://www.aliexpress.us/item/3256804811567692.html) |
@@ -33,5 +34,5 @@ Below are some necessary tools you might need.
 |---|---|---|---|
 | Lowstrength Threadlocker | 1 | $9 | [ThreadLocker](https://www.amazon.com/Loctite-Threadlocker-Automotive-High-Temperature-Non-Corrosive/dp/B0002KKTT0/)|
 | Screwdriver |---|---|---|
-| Socket Wrench |---|---|---|
-| Total |---| $ |---|
+| 4mm Socket Wrench | 1 | $1 | [AliExpress](https://www.aliexpress.us/item/3256807110667677.html)|
+| Total |---| $10 |---|
