@@ -36,3 +36,14 @@ Below are some necessary tools you might need.
 | Screwdriver |---|---|---|
 | 4mm Socket Wrench | 1 | $1 | [AliExpress](https://www.aliexpress.us/item/3256807110667677.html)|
 | Total |---| $10 |---|
+
+### Assembling the Parts
+Construct the leader and follower arms using the Assembly Video linked below. After you assemble the two arms from the video, power the leader arm using the 5V power supply, and the follower arm using the 12V power supply. In addition, plug each arm into your computer using a USB-C cable.
+
+TODO(jess-moss): Add assembly video.
+
+### Configure
+While this robot can be programmed in a variety of manners, it is suggested to use with [LeRobot](https://github.com/huggingface/lerobot/blob/main/examples/7_get_started_with_real_robot.md).
+
+
+Join the project for support and development on the [discord server](https://discord.gg/ggrqhPTsMe).
