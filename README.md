@@ -1,7 +1,7 @@
 # moss-robot-arms
 moss-robot-arms Beta version 1.0.
 
-A repository for affordable, easy-to-assemble robot arms designed for teleoperation applications.
+A repository for affordable, easy-to-assemble robot arms designed for teleoperation applications. Note: This initial version arm uses the [SO-100 Arm](https://github.com/TheRobotStudio/SO-ARM100) Gripper. Future iterations will have an off the shelf gripper.
 
 ## Assembly Instructions
 ![Arm](./pictures/Render.png)
@@ -17,16 +17,10 @@ TODO(jess-moss): Add a picture when you can.
 
 | Part | Amount | Unit Cost (US) | Buy US |
 |---|---|---|---|
-| STS3215 Servo | 5 | $14 | [Alibaba](https://www.alibaba.com/product-detail/12V-30KG-STS3215-7-4v-servo_1601218802374.html) |
-| Motor Control Board |---|---|---|
-| Bracket Set | 6 | $2.6 | [Alibaba](https://www.alibaba.com/product-detail/STS3215-Metal-brackets-for-FEETECH-7_1600836829515.html) |
-| Straight U Bracket | 3 | $1 | [Aliexpress](https://www.aliexpress.us/item/3256804811567692.html) |
-| Big U Bracket | 1 | $1 | [AliExpress](https://www.aliexpress.us/item/3256804774158934.html) |
-| Gripper | 1 | $25 | [Pololu](https://www.pololu.com/product/3551) |
-| Spacer | 4 | $1 | [McMaster](https://www.mcmaster.com/92510A403/)|
-| Washer | 1 | $1 | [McMaster](https://www.mcmaster.com/92141A003/)|
-| M2 Fasteners | 1 | $6 | [McMaster](https://www.mcmaster.com/92005A037/)|
-| Total |---| $125 |---|
+| STS3215 Servo | 6 | $15 | [Alibaba](https://www.alibaba.com/product-detail/6PCS-12V-30KG-STS3215-High-Torque_1601216757543.html?) |
+| Motor Control Board | 1 | $5 | [Waveshare](https://www.waveshare.com/bus-servo-adapter-a.htm) |
+| Bracket Set | 8 | $3 | [Alibaba](https://www.alibaba.com/product-detail/STS3215-Metal-brackets-for-FEETECH-7_1600836829515.html) |
+| Total |---| $117 |---|
 
 
 Below are some necessary tools you might need.
@@ -34,8 +28,8 @@ Below are some necessary tools you might need.
 |---|---|---|---|
 | Lowstrength Threadlocker | 1 | $9 | [ThreadLocker](https://www.amazon.com/Loctite-Threadlocker-Automotive-High-Temperature-Non-Corrosive/dp/B0002KKTT0/)|
 | Screwdriver |---|---|---|
-| 4mm Socket Wrench | 1 | $1 | [AliExpress](https://www.aliexpress.us/item/3256807110667677.html)|
-| Total |---| $10 |---|
+| Combination Wrench | - | - |---|
+| Total |---| --- |---|
 
 ### Assembling the Parts
 Construct the leader and follower arms using the Assembly Video linked below. After you assemble the two arms from the video, power the leader arm using the 5V power supply, and the follower arm using the 12V power supply. In addition, plug each arm into your computer using a USB-C cable.
