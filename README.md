@@ -17,10 +17,10 @@ TODO(jess-moss): Add a picture when you can.
 
 | Part | Amount | Unit Cost (US) | Buy US |
 |---|---|---|---|
-| STS3215 Servo | 6 | $15 | [Alibaba](https://www.alibaba.com/product-detail/6PCS-12V-30KG-STS3215-High-Torque_1601216757543.html?) |
+| STS3215 Servo | 6 | $15 | [Alibaba](https://www.alibaba.com/product-detail/6PCS-7-4V-STS3215-Servos-for_1600523509006.html) |
 | Motor Control Board | 1 | $5 | [Waveshare](https://www.waveshare.com/bus-servo-adapter-a.htm) |
-| Bracket Set | 8 | $3 | [Alibaba](https://www.alibaba.com/product-detail/STS3215-Metal-brackets-for-FEETECH-7_1600836829515.html) |
-| Total |---| $117 |---|
+| Bracket Set | 9 | $3 | [Alibaba](https://www.alibaba.com/product-detail/STS3215-Metal-brackets-for-FEETECH-7_1600836829515.html) |
+| Total |---| $120 |---|
 
 
 Below are some necessary tools you might need.
