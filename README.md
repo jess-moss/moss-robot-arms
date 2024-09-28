@@ -13,6 +13,7 @@ Note: The follower and leader arm for this teleoperation setup will have the sam
 TODO(jess-moss): Add a picture when you can.
 
 #### Parts For Two Arms (Standard Teleoperation Setup):
+<img src="./pictures/Leader_Arm.jpg" alt="Leader Arm" width="650"/> <img src="./pictures/Follower_Arm.jpg" alt="Follower Arm" width="650"/>
 | Part | Amount | Unit Cost (US) | Buy US | Unit Cost (EU) | Buy EU |
 |---|---|---|---|---|---|
 | STS3215 Servo | 12 | $14 | [Alibaba](https://www.alibaba.com/product-detail/Educational-Robot-Arm-7-4V-20Kg_1600624265011.html) | 13€ | [Alibaba](https://www.alibaba.com/product-detail/Educational-Robot-Arm-7-4V-20Kg_1600624265011.html) |
@@ -24,11 +25,10 @@ TODO(jess-moss): Add a picture when you can.
 | Lowstrength Threadlocker | 1 | $9 | [Amazon](https://www.amazon.com/Loctite-Threadlocker-Automotive-High-Temperature-Non-Corrosive/dp/B0002KKTT0/)| 11€ | [Amazon](https://www.amazon.fr/-/en/dp/B000HBGHFY/) |
 | Screwdriver Set (includes Phillips #000, #00, #0, #1) | 1 | $6 | [Amazon](https://www.amazon.com/Precision-Phillips-Screwdriver-Electronics-Computer/dp/B0DB227RTH) | 7€ | [Amazon](https://www.amazon.fr/-/en/dp/B0BNQBNFFJ/?th=1) |
 | Wrench(5.5mm or 7/32") | 1 | $6 | [Amazon](https://www.amazon.com/equlup-Control-Crawler-Accessory-Hexagon/dp/B0DB1H5PRS/) | 7€ | [Amazon](https://www.amazon.fr/-/en/dp/B0CD2C7G6D) |
-| Total |---| $292 |---| 266€ |---|
-
+| M3 Washers | 1 | $2 | [Amazon](https://www.amazon.com/Hillman-Group-7606-Washers-10-Pack/dp/B00G5IZWQS/) | 4€ | [Amazon](https://www.amazon.fr/-/en/dp/B0CVNBW6RL/) |
+| Total |---| $292 |---| 270€ |---|
 
 #### Parts for One Arm:
-![Arm](./pictures/Follower_Arm.png)
 | Part | Amount | Unit Cost (US) | Buy US | Unit Cost (EU) | Buy EU |
 |---|---|---|---|---|---|
 | STS3215 Servo | 6 | $14 | [Alibaba](https://www.alibaba.com/product-detail/Educational-Robot-Arm-7-4V-20Kg_1600624265011.html) | 13€ | [Alibaba](https://www.alibaba.com/product-detail/Educational-Robot-Arm-7-4V-20Kg_1600624265011.html) |
@@ -40,7 +40,8 @@ TODO(jess-moss): Add a picture when you can.
 | Lowstrength Threadlocker | 1 | $9 | [Amazon](https://www.amazon.com/Loctite-Threadlocker-Automotive-High-Temperature-Non-Corrosive/dp/B0002KKTT0/)| 11€ | [Amazon](https://www.amazon.fr/-/en/dp/B000HBGHFY/) |
 | Screwdriver Set (includes Phillips #000, #00, #0, #1) | 1 | $6 | [Amazon](https://www.amazon.com/Precision-Phillips-Screwdriver-Electronics-Computer/dp/B0DB227RTH) | 7€ | [Amazon](https://www.amazon.fr/-/en/dp/B0BNQBNFFJ/?th=1) |
 | Wrench(5.5mm or 7/32") | 1 | $6 | [Amazon](https://www.amazon.com/equlup-Control-Crawler-Accessory-Hexagon/dp/B0DB1H5PRS/) | 7€ | [Amazon](https://www.amazon.fr/-/en/dp/B0CD2C7G6D) |
-| Total |---| $160 |---| 149€ |---|
+| M3 Washers | 1 | $2 | [Amazon](https://www.amazon.com/Hillman-Group-7606-Washers-10-Pack/dp/B00G5IZWQS/) | 4€ | [Amazon](https://www.amazon.fr/-/en/dp/B0CVNBW6RL/) |
+| Total |---| $162 |---| 153€ |---|
 
 ### Assembling the Parts
 Construct the leader and follower arms using the Assembly Video linked below. After you assemble the two arms from the video, power the leader arm using the 5V power supply, and the follower arm using the 12V power supply. In addition, plug each arm into your computer using a USB-C cable.
