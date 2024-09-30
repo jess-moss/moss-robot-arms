@@ -21,13 +21,13 @@ Note: The follower and leader arm for this teleoperation setup will have the sam
 | Motor Control Board | 2 | $5 | [Waveshare](https://www.waveshare.com/bus-servo-adapter-a.htm) - [Amazon](https://www.amazon.com/Control-Circuit-Suitable-Supports-Controlling/dp/B0CKT8BN73/ref=asc_df_B0CKT8BN73/) | 4€ | [Waveshare](https://www.waveshare.com/bus-servo-adapter-a.htm)-[Amazon](https://www.amazon.fr/-/en/dp/B0CJ6RYC9J/ref=sr_1_3)|
 | Bracket Set | 18 | $3 | [Alibaba](https://www.alibaba.com/product-detail/STS3215-Metal-brackets-for-FEETECH-7_1600836829515.html) | 2€ | [Alibaba](https://www.alibaba.com/product-detail/STS3215-Metal-brackets-for-FEETECH-7_1600836829515.html) |
 | USB-C Cable 2 pcs | 1 | $7 | [Amazon](https://www.amazon.com/Charging-etguuds-Charger-Braided-Compatible/dp/B0B8NWLLW2/?th=1) | 7€ | [Amazon](https://www.amazon.com/Charging-etguuds-Charger-Braided-Compatible/dp/B0B8NWLLW2/?th=1) |
-| Power Cable | 2 | $7 | [Amazon](https://www.amazon.com/MTYTOT-Supply-100-240V-Adapter-5-5x2-5mm/dp/B09ZL1TLMR/) | 9€ | [Amazon](https://www.amazon.fr/-/en/dp/B0C4FJTZGT/) |
+| Power Cable | 2 | $10 | [Amazon](https://www.amazon.com/Facmogu-Switching-Transformer-Compatible-5-5x2-1mm/dp/B087LY41PV/) | 13€ | [Amazon](https://www.amazon.fr/-/en/dp/B01HRR9GY4/) |
 | Table Clamp 2pcs | 2 | $9 | [Amazon](https://www.amazon.com/Mr-Pen-Carpenter-Clamp-6inch/dp/B092L925J4/) | 8€ | [Amazon](https://www.amazon.fr/-/en/dp/B08HZ1QRBF/)|
 | Lowstrength Threadlocker<sup>[1](#myfootnote1)</sup> | 1 | $9 | [Amazon](https://www.amazon.com/Loctite-Threadlocker-Automotive-High-Temperature-Non-Corrosive/dp/B0002KKTT0/)| 11€ | [Amazon](https://www.amazon.fr/-/en/dp/B000HBGHFY/) |
 | Screwdriver Set (includes Phillips #000, #00, #0, #1) | 1 | $6 | [Amazon](https://www.amazon.com/Precision-Phillips-Screwdriver-Electronics-Computer/dp/B0DB227RTH) | 7€ | [Amazon](https://www.amazon.fr/-/en/dp/B0BNQBNFFJ/?th=1) |
 | Wrench<sup>[2](#myfootnote2)</sup> | 1 | $5 | [Amazon](https://www.amazon.com/uxcell-Metric-Double-Wrench-5-5mm/dp/B07D4B8GWW/) | 4€ | [Amazon](https://www.amazon.fr/-/en/dp/B075DML8KB/) |
 | M3 Washers<sup>[3](#myfootnote3)</sup> | 1 | $2 | [Amazon](https://www.amazon.com/Hillman-Group-7606-Washers-10-Pack/dp/B00G5IZWQS/) | 4€ | [Amazon](https://www.amazon.fr/-/en/dp/B0CVNBW6RL/) |
-| Total |---| $291 |---| 267€ |---|
+| Total |---| $299 |---| 275€ |---|
 
 #### Parts for One Arm:
 | Part | Amount | Unit Cost (US) | Buy US | Unit Cost (EU) | Buy EU |
@@ -36,13 +36,13 @@ Note: The follower and leader arm for this teleoperation setup will have the sam
 | Motor Control Board | 1 | $5 | [Waveshare](https://www.waveshare.com/bus-servo-adapter-a.htm) - [Amazon](https://www.amazon.com/Control-Circuit-Suitable-Supports-Controlling/dp/B0CKT8BN73/ref=asc_df_B0CKT8BN73/) | 4€ | [Waveshare](https://www.waveshare.com/bus-servo-adapter-a.htm)-[Amazon](https://www.amazon.fr/-/en/dp/B0CJ6RYC9J/ref=sr_1_3)|
 | Bracket Set | 9 | $3 | [Alibaba](https://www.alibaba.com/product-detail/STS3215-Metal-brackets-for-FEETECH-7_1600836829515.html) | 2€ | [Alibaba](https://www.alibaba.com/product-detail/STS3215-Metal-brackets-for-FEETECH-7_1600836829515.html) |
 | USB-C Cable 2 pcs | 1 | $7 | [Amazon](https://www.amazon.com/Charging-etguuds-Charger-Braided-Compatible/dp/B0B8NWLLW2/?th=1) | 7€ | [Amazon](https://www.amazon.com/Charging-etguuds-Charger-Braided-Compatible/dp/B0B8NWLLW2/?th=1) |
-| Power Cable | 1 | $7 | [Amazon](https://www.amazon.com/MTYTOT-Supply-100-240V-Adapter-5-5x2-5mm/dp/B09ZL1TLMR/) | 9€ | [Amazon](https://www.amazon.fr/-/en/dp/B0C4FJTZGT/) |
+| Power Cable | 1 | $10 | [Amazon](https://www.amazon.com/Facmogu-Switching-Transformer-Compatible-5-5x2-1mm/dp/B087LY41PV/) | 13€ | [Amazon](https://www.amazon.fr/-/en/dp/B01HRR9GY4/) |
 | Table Clamp 2pcs | 1 | $9 | [Amazon](https://www.amazon.com/Mr-Pen-Carpenter-Clamp-6inch/dp/B092L925J4/) | 8€ | [Amazon](https://www.amazon.fr/-/en/dp/B08HZ1QRBF/)|
 | Lowstrength Threadlocker<sup>[1](#myfootnote1)</sup> | 1 | $9 | [Amazon](https://www.amazon.com/Loctite-Threadlocker-Automotive-High-Temperature-Non-Corrosive/dp/B0002KKTT0/)| 11€ | [Amazon](https://www.amazon.fr/-/en/dp/B000HBGHFY/) |
 | Screwdriver Set (includes Phillips #000, #00, #0, #1) | 1 | $6 | [Amazon](https://www.amazon.com/Precision-Phillips-Screwdriver-Electronics-Computer/dp/B0DB227RTH) | 7€ | [Amazon](https://www.amazon.fr/-/en/dp/B0BNQBNFFJ/?th=1) |
 | Wrench<sup>[2](#myfootnote2)</sup> | 1 | $5 | [Amazon](https://www.amazon.com/uxcell-Metric-Double-Wrench-5-5mm/dp/B07D4B8GWW/) | 4€ | [Amazon](https://www.amazon.fr/-/en/dp/B075DML8KB/) |
 | M3 Washers<sup>[3](#myfootnote3)</sup> | 1 | $2 | [Amazon](https://www.amazon.com/Hillman-Group-7606-Washers-10-Pack/dp/B00G5IZWQS/) | 4€ | [Amazon](https://www.amazon.fr/-/en/dp/B0CVNBW6RL/) |
-| Total |---| $161 |---| 150€ |---|
+| Total |---| $165 |---| 154€ |---|
 
 ### Printing the Parts
 A variety of 3D printers are acceptable to print the parts necessary of the follower and leader arm. Follow the steps below to ensure a good print.
