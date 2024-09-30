@@ -44,9 +44,6 @@ Note: The follower and leader arm for this teleoperation setup will have the sam
 | M3 Washers<sup>[3](#myfootnote3)</sup> | 1 | $2 | [Amazon](https://www.amazon.com/Hillman-Group-7606-Washers-10-Pack/dp/B00G5IZWQS/) | 4€ | [Amazon](https://www.amazon.fr/-/en/dp/B0CVNBW6RL/) |
 | Total |---| $161 |---| 150€ |---|
 
-#### Parts for Hackathon:
-You may also want to buy these colorful wooden blocks([Buy US](https://www.amazon.com/Learning-Resources-Wooden-Color-Cubes/dp/B00004WKPR/ref=asc_df_B00004WKPR/), [Buy EU](https://www.amazon.fr/dp/B00004WKPR/)) to train and test your models and they will be used at the LeRobot Hackathon in October.
-
 ### Printing the Parts
 A variety of 3D printers are acceptable to print the parts necessary of the follower and leader arm. Follow the steps below to ensure a good print.
 
