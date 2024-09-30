@@ -14,8 +14,7 @@ Note: The follower and leader arm for this teleoperation setup will have the sam
 /!\ Warning: We only have links for US and EU for now. If you find links for other countries, please create an issue or PR so that we add them to the list.
 
 #### Parts For Two Arms (Standard Teleoperation Setup):
-<img src="./pictures/Leader_Arm2.png" alt="Leader Arm" style="height: 300px; width: auto;"/> <img src="./pictures/Follower_Arm.jpg" alt="Follower Arm" style="height: 300px; width: auto;"/>
-
+<img src="./pictures/Leader_Arm.jpg" alt="Leader Arm" style="width: 45%;"/> <img src="./pictures/Follower_Arm.jpg" alt="Follower Arm" style="width: 45%;"/>
 | Part | Amount | Unit Cost (US) | Buy US | Unit Cost (EU) | Buy EU |
 |---|---|---|---|---|---|
 | STS3215 Servo | 12 | $14 | [Alibaba](https://www.alibaba.com/product-detail/Educational-Robot-Arm-7-4V-20Kg_1600624265011.html) | 13€ | [Alibaba](https://www.alibaba.com/product-detail/Educational-Robot-Arm-7-4V-20Kg_1600624265011.html) |
