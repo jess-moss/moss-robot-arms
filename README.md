@@ -8,12 +8,12 @@ A repository for affordable, easy-to-assemble robot arms designed for teleoperat
 ![Follower Arm](./pictures/Render.png)
 
 
-### Sourcing Parts
+## Sourcing Parts
 Note: The follower and leader arm for this teleoperation setup will have the same off the shelf parts. If you plan on creating the classic teleoperation set up to be used with the `LeRobot` library please buy from the Parts for 2 arms below. Note prices and items may vary slightly depending on geographic location.
 
 /!\ Warning: We only have links for US and EU for now. If you find links for other countries, please create an issue or PR so that we add them to the list.
 
-#### Parts For Two Arms (Standard Teleoperation Setup):
+### Parts For Two Arms (Standard Teleoperation Setup):
 <img src="./pictures/Leader_Arm.jpg" alt="Leader Arm" style="width: 45%;"/> <img src="./pictures/Follower_Arm.jpg" alt="Follower Arm" style="width: 45%;"/>
 | Part | Amount | Unit Cost (US) | Buy US | Unit Cost (EU) | Buy EU |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@ Note: The follower and leader arm for this teleoperation setup will have the sam
 | M3 Washers<sup>[3](#myfootnote3)</sup> | 1 | $2 | [Amazon](https://www.amazon.com/Hillman-Group-7606-Washers-10-Pack/dp/B00G5IZWQS/) | 4€ | [Amazon](https://www.amazon.fr/-/en/dp/B0CVNBW6RL/) |
 | Total |---| $299 |---| 278€ |---|
 
-#### Parts for One Arm:
+### Parts for One Arm:
 | Part | Amount | Unit Cost (US) | Buy US | Unit Cost (EU) | Buy EU |
 |---|---|---|---|---|---|
 | STS3215 Servo | 6 | $14 | [Alibaba](https://www.alibaba.com/product-detail/Educational-Robot-Arm-7-4V-20Kg_1600624265011.html) | 13€ | [Alibaba](https://www.alibaba.com/product-detail/Educational-Robot-Arm-7-4V-20Kg_1600624265011.html) |
@@ -44,7 +44,7 @@ Note: The follower and leader arm for this teleoperation setup will have the sam
 | M3 Washers<sup>[3](#myfootnote3)</sup> | 1 | $2 | [Amazon](https://www.amazon.com/Hillman-Group-7606-Washers-10-Pack/dp/B00G5IZWQS/) | 4€ | [Amazon](https://www.amazon.fr/-/en/dp/B0CVNBW6RL/) |
 | Total |---| $165 |---| 157€ |---|
 
-### Printing the Parts
+## Printing the Parts
 A variety of 3D printers are acceptable to print the parts necessary of the follower and leader arm. Follow the steps below to ensure a good print.
 
 1. Choose a printer: When choosing a printer there are a variety of factors to consider. Below are the suggested printed settings, although using a printer outside these parameters may likely work as well.
@@ -72,18 +72,18 @@ A variety of 3D printers are acceptable to print the parts necessary of the foll
    2. Remove any support material from parts.
    3. Reapply the glue stick before starting the next print.
 
-### Assembling the Parts
-Construct the leader and follower arms using the Assembly Video linked below. After you assemble the two arms from the video, power the leader arm using the 5V power supply, and the follower arm using the 12V power supply. In addition, plug each arm into your computer using a USB-C cable.
+## Assembling the Parts
+Construct the leader and follower arms using the Assembly Video linked below. After you assemble the two arms from the video, power the leader and follower arm using the 5V power supplies. In addition, plug each arm into your computer using a USB-C cable.
 
 TODO(jess-moss): Add assembly video.
 
-### Configure
+## Configure
 While this robot can be programmed in a variety of manners, it is suggested to use with [LeRobot](https://github.com/huggingface/lerobot/blob/main/examples/7_get_started_with_real_robot.md).
 
 
 Join the project for support and development on the [discord server](https://discord.gg/ggrqhPTsMe).
 
-
+## Footnotes
 <a name="myfootnote1">1</a>: While Loctite is not strictly necessary, it does help to ensure screws do not loosen overtime, and is recommended whenever you have a the M3 screw fastening into the M3 nut. You only need a small dot of it. \
 <a name="myfootnote2">2</a>: You can either use a 5.5mm or 7/32" wrench, as they are both compatible with the M3 nuts. In a pinch you can also use needle-nose or other pliers but a wrench does help with assembly. \
 <a name="myfootnote3">3</a>: The screws provided with the Bracket Set are actually slightly too long for the motor horn on the idler side. You can buy M3 washer (they do not need to be these exact ones) to ensure a tight fit. \
