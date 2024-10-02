@@ -17,7 +17,7 @@ Note: The follower and leader arm for this teleoperation setup will have the sam
 <img src="./pictures/Leader_Arm.jpg" alt="Leader Arm" style="width: 45%;"/> <img src="./pictures/Follower_Arm.jpg" alt="Follower Arm" style="width: 45%;"/>
 | Part | Amount | Unit Cost (US) | Buy US | Unit Cost (EU) | Buy EU |
 |---|---|---|---|---|---|
-| STS3215 Servo | 12 | $14 | [Alibaba](https://www.alibaba.com/product-detail/Educational-Robot-Arm-7-4V-20Kg_1600624265011.html) | 13€ | [Alibaba](https://www.alibaba.com/product-detail/Educational-Robot-Arm-7-4V-20Kg_1600624265011.html) |
+| STS3215 Servo | 12 | $14 | [Alibaba](https://www.alibaba.com/product-detail/_1601053797763.html) | 13€ | [Alibaba](https://www.alibaba.com/product-detail/_1601053797763.html) |
 | Motor Control Board | 2 | $5 | [Waveshare](https://www.waveshare.com/bus-servo-adapter-a.htm) - [Amazon](https://www.amazon.com/Control-Circuit-Suitable-Supports-Controlling/dp/B0CKT8BN73/ref=asc_df_B0CKT8BN73/) | 4€ | [Waveshare](https://www.waveshare.com/bus-servo-adapter-a.htm)-[Amazon](https://www.amazon.fr/-/en/dp/B0CJ6RYC9J/ref=sr_1_3)|
 | Bracket Set | 18 | $3 | [Alibaba](https://www.alibaba.com/product-detail/STS3215-Metal-brackets-for-FEETECH-7_1600836829515.html) | 2€ | [Alibaba](https://www.alibaba.com/product-detail/STS3215-Metal-brackets-for-FEETECH-7_1600836829515.html) |
 | USB-C Cable 2 pcs | 1 | $7 | [Amazon](https://www.amazon.com/Charging-etguuds-Charger-Braided-Compatible/dp/B0B8NWLLW2/?th=1) | 7€ | [Amazon](https://[www.amazon.com/Charging-etguuds-Charger-Braided-Compatible/dp/B0B8NWLLW2/?th=1](https://www.amazon.fr/dp/B07BNF842T/)) |
@@ -32,7 +32,7 @@ Note: The follower and leader arm for this teleoperation setup will have the sam
 ### Parts for One Arm:
 | Part | Amount | Unit Cost (US) | Buy US | Unit Cost (EU) | Buy EU |
 |---|---|---|---|---|---|
-| STS3215 Servo | 6 | $14 | [Alibaba](https://www.alibaba.com/product-detail/Educational-Robot-Arm-7-4V-20Kg_1600624265011.html) | 13€ | [Alibaba](https://www.alibaba.com/product-detail/Educational-Robot-Arm-7-4V-20Kg_1600624265011.html) |
+| STS3215 Servo | 6 | $14 | [Alibaba](https://www.alibaba.com/product-detail/_1601053797763.html) | 13€ | [Alibaba](https://www.alibaba.com/product-detail/_1601053797763.html) |
 | Motor Control Board | 1 | $5 | [Waveshare](https://www.waveshare.com/bus-servo-adapter-a.htm) - [Amazon](https://www.amazon.com/Control-Circuit-Suitable-Supports-Controlling/dp/B0CKT8BN73/ref=asc_df_B0CKT8BN73/) | 4€ | [Waveshare](https://www.waveshare.com/bus-servo-adapter-a.htm)-[Amazon](https://www.amazon.fr/-/en/dp/B0CJ6RYC9J/ref=sr_1_3)|
 | Bracket Set | 9 | $3 | [Alibaba](https://www.alibaba.com/product-detail/STS3215-Metal-brackets-for-FEETECH-7_1600836829515.html) | 2€ | [Alibaba](https://www.alibaba.com/product-detail/STS3215-Metal-brackets-for-FEETECH-7_1600836829515.html) |
 | USB-C Cable 2 pcs | 1 | $7 | [Amazon](https://www.amazon.com/Charging-etguuds-Charger-Braided-Compatible/dp/B0B8NWLLW2/?th=1) | 7€ | [Amazon](https://[www.amazon.com/Charging-etguuds-Charger-Braided-Compatible/dp/B0B8NWLLW2/?th=1](https://www.amazon.fr/dp/B07BNF842T/)) |
