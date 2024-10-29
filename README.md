@@ -63,7 +63,7 @@ A variety of 3D printers are acceptable to print the parts necessary of the foll
    1. `Print_Follower_SO_ARM100_08k_Gripper.STL`
    2. `Print_Leader_SO_ARM100_08k_Gripper.STL`
 4. Take Down
-   1. After the print is done, use the putty knife to scrape the the parts off the print bed.
+   1. After the print is done, use the putty knife to scrape the parts off the print bed.
    2. Remove any support material from parts.
    3. Reapply the glue stick before starting the next print.
 
