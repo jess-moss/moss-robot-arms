@@ -68,9 +68,7 @@ A variety of 3D printers are acceptable to print the parts necessary of the foll
    3. Reapply the glue stick before starting the next print.
 
 ## Assembling the Parts
-Construct the leader and follower arms using the Assembly Video linked below. After you assemble the two arms from the video, power the leader and follower arm using the 5V power supplies. In addition, plug each arm into your computer using a USB-C cable.
-
-TODO(jess-moss): Add assembly video.
+Construct the leader and follower arms using the [Assembly Video](https://www.youtube.com/watch?v=DA91NJOtMic). After you assemble the two arms from the video, power the leader and follower arm using the 5V power supplies. In addition, plug each arm into your computer using a USB-C cable.
 
 ## Configure
 While this robot can be programmed in a variety of manners, it is suggested to use with [LeRobot](https://github.com/huggingface/lerobot/blob/main/examples/7_get_started_with_real_robot.md).
