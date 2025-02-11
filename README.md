@@ -26,11 +26,11 @@ Note: The follower and leader arm for this teleoperation setup will have the sam
 | Side Bracket | 6 | --- | --- | --- | --- | ￥6 | [TaoBao](https://item.taobao.com/item.htm?id=615340872015&skuId=4472922777846) |
 | USB-C Cable 2 pcs | 1 | $7 | [Amazon](https://www.amazon.com/Charging-etguuds-Charger-Braided-Compatible/dp/B0B8NWLLW2/?th=1) | 7€ | [Amazon](https://www.amazon.fr/dp/B07BNF842T) | ￥23.9*2 | [TaoBao](https://detail.tmall.com/item.htm?id=44425281296&skuId=5611379016222) |
 | Power Supply<sup>[2](#myfootnote2)</sup> | 2 | $10 | [Amazon](https://www.amazon.com/Facmogu-Switching-Transformer-Compatible-5-5x2-1mm/dp/B087LY41PV/) | 13€ | [Amazon](https://www.amazon.fr/-/en/dp/B01HRR9GY4/) | ￥22.31 | [TaoBao](https://item.taobao.com/item.htm?id=544824248494&skuId=4974994129990) |
-| Table Clamp 2pcs | 2 | $9 | [Amazon](https://www.amazon.com/Mr-Pen-Carpenter-Clamp-6inch/dp/B092L925J4/) | 8€ | [Amazon](https://www.amazon.fr/-/en/dp/B08HZ1QRBF/)| ￥7.8 | [TaoBao](https://detail.tmall.com/item.htm?id=738636473238&skuId=5505939904942) |
+| Table Clamp 4pcs | 1 | $9 | [Amazon](https://www.amazon.com/dp/B0CY899V9V) | 8€ | [Amazon](https://www.amazon.fr/-/en/dp/B08HZ1QRBF/)| ￥7.8 | [TaoBao](https://detail.tmall.com/item.htm?id=738636473238&skuId=5505939904942) |
 | Lowstrength Threadlocker<sup>[3](#myfootnote3)</sup> | 1 | $9 | [Amazon](https://www.amazon.com/Loctite-Threadlocker-Automotive-High-Temperature-Non-Corrosive/dp/B0002KKTT0/)| 11€ | [Amazon](https://www.amazon.fr/-/en/dp/B000HBGHFY/) | ￥81 | [TaoBao](https://detail.tmall.com/item.htm?id=652665229827&skuId=5125512809535) |
 | Screwdriver Set (includes Phillips #000, #00, #0, #1) | 1 | $6 | [Amazon](https://www.amazon.com/Precision-Phillips-Screwdriver-Electronics-Computer/dp/B0DB227RTH) | 10€ | [Amazon](https://www.amazon.fr/dp/B08ZXVMVYD/) | ￥14.9 | [TaoBao](https://detail.tmall.com/item.htm?id=675684600845&skuId=4856851392176) |
 | Wrench<sup>[4](#myfootnote5)</sup> | 1 | $5 | [Amazon](https://www.amazon.com/uxcell-Metric-Double-Wrench-5-5mm/dp/B07D4B8GWW/) | 4€ | [Amazon](https://www.amazon.fr/-/en/dp/B075DML8KB/) | ￥8.9 | [TaoBao](https://detail.tmall.com/item.htm?id=735857252241&skuId=5685349146062) |
-| Total |---| $297 |---| 274€ |---|￥1631.46|---|
+| Total |---| $288 |---| 274€ |---|￥1631.46|---|
 
 ### Parts for One Arm:
 
@@ -44,11 +44,11 @@ Note: The follower and leader arm for this teleoperation setup will have the sam
 | Side Bracket | 3 | --- | --- | --- | --- | ￥6 | [TaoBao](https://item.taobao.com/item.htm?id=615340872015&skuId=4472922777846) |
 | USB-C Cable 2 pcs | 1 | $7 | [Amazon](https://www.amazon.com/Charging-etguuds-Charger-Braided-Compatible/dp/B0B8NWLLW2/?th=1) | 7€ | [Amazon](https://[www.amazon.com/Charging-etguuds-Charger-Braided-Compatible/dp/B0B8NWLLW2/?th=1](https://www.amazon.fr/dp/B07BNF842T/)) | ￥23.9 | [TaoBao](https://detail.tmall.com/item.htm?id=44425281296&skuId=5611379016222) |
 | Power Supply<sup>[2](#myfootnote2)</sup> | 1 | $10 | [Amazon](https://www.amazon.com/Facmogu-Switching-Transformer-Compatible-5-5x2-1mm/dp/B087LY41PV/) | 13€ | [Amazon](https://www.amazon.fr/-/en/dp/B01HRR9GY4/) | ￥22.31 | [TaoBao](https://item.taobao.com/item.htm?id=544824248494&skuId=4974994129990) |
-| Table Clamp 2pcs | 1 | $9 | [Amazon](https://www.amazon.com/Mr-Pen-Carpenter-Clamp-6inch/dp/B092L925J4/) | 8€ | [Amazon](https://www.amazon.fr/-/en/dp/B08HZ1QRBF/)| ￥7.8 | [TaoBao](https://detail.tmall.com/item.htm?id=738636473238&skuId=5505939904942) |
+| Table Clamp 2pcs | 1 | $5 | [Amazon](https://www.amazon.com/Clamp-Hanger-Storage-Clamps-Mount/dp/B0C1GYSVCS?rps=1&sr=1-2) | 8€ | [Amazon](https://www.amazon.fr/-/en/dp/B08HZ1QRBF/)| ￥7.8 | [TaoBao](https://detail.tmall.com/item.htm?id=738636473238&skuId=5505939904942) |
 | Lowstrength Threadlocker<sup>[3](#myfootnote3)</sup> | 1 | $9 | [Amazon](https://www.amazon.com/Loctite-Threadlocker-Automotive-High-Temperature-Non-Corrosive/dp/B0002KKTT0/)| 11€ | [Amazon](https://www.amazon.fr/-/en/dp/B000HBGHFY/) | ￥81 | [TaoBao](https://detail.tmall.com/item.htm?id=652665229827&skuId=5125512809535) |
 | Screwdriver Set (includes Phillips #000, #00, #0, #1) | 1 | $6 | [Amazon](https://www.amazon.com/Precision-Phillips-Screwdriver-Electronics-Computer/dp/B0DB227RTH) | 10€ | [Amazon](https://www.amazon.fr/dp/B08ZXVMVYD/) | ￥14.9 | [TaoBao](https://detail.tmall.com/item.htm?id=675684600845&skuId=4856851392176) |
 | Wrench<sup>[4](#myfootnote4)</sup> | 1 | $5 | [Amazon](https://www.amazon.com/uxcell-Metric-Double-Wrench-5-5mm/dp/B07D4B8GWW/) | 4€ | [Amazon](https://www.amazon.fr/-/en/dp/B075DML8KB/) | ￥8.9 | [TaoBao](https://detail.tmall.com/item.htm?id=735857252241&skuId=5685349146062) |
-| Total |---| $163 |---| 153€ |---|868.13|---|
+| Total |---| $159 |---| 153€ |---|868.13|---|
 
 ## Printing the Parts
 A variety of 3D printers are acceptable to print the parts necessary of the follower and leader arm. Follow the steps below to ensure a good print.
