@@ -1,7 +1,12 @@
+> [!IMPORTANT]
+> For use with [LeRobot](https://github.com/huggingface/lerobot)  we now recommend building or purchasing the [SO100](https://github.com/TheRobotStudio/SO-ARM100) arm instead. While the Moss v1 robot is still supported, it will be deprecated. Additionally, 3D-printed parts for the SO100 are now available for purchase if you don't have a printer. If you already have a Moss v1, you could disassemble it and create a SO100 using the same motors. 
+>
+> For instructions on building and setting up the SO100, follow this [tutorial](https://github.com/huggingface/lerobot/blob/main/examples/10_use_so100.md).
+
 # moss-robot-arms
 moss-robot-arms Beta version 1.0.
 
-A repository for affordable, easy-to-assemble robot arms designed for teleoperation applications. Note: This initial version arm uses the [SO-100 Arm](https://github.com/TheRobotStudio/SO-ARM100) Gripper. Future iterations will have an off the shelf gripper.
+A repository for affordable, easy-to-assemble robot arms designed for teleoperation applications. 
 
 ## Assembly Instructions
 
